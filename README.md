@@ -93,11 +93,14 @@ npm run dev
 ```
 ---
 
-🔐 Environment Variables
+## 🔐 Environment Variables
 
-GEMINI_API_KEY=your_api_key
-OPENAI_API_KEY=your_api_key
+To run this project locally, create a `.env` file and configure the following:
 
+```env
+GEMINI_API_KEY=your_api_key_here
+OPENAI_API_KEY=your_api_key_here
+```
 ---
 
 ## 🔗 API Endpoints
